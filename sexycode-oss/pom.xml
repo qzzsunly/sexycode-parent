@@ -6,7 +6,7 @@
 
     <groupId>cn.sexycode</groupId>
     <artifactId>sexycode-parent</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <name>sexycode-parent</name>
     <description>common config</description>
     <url>http://sexycode-parent.sexycode.cn</url>
